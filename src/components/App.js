@@ -14,6 +14,13 @@ class App extends React.Component {
       }
     }
   }
+  // handleChange = (event) => {
+  //   this.setState({
+  //     filters: {
+  //       type: event.target.value 
+  //     }
+  //   })
+  // }
 
   render() {
     return (
